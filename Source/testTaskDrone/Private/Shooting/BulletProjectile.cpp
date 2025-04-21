@@ -1,5 +1,5 @@
-#include "BulletProjectile.h"
-#include <PawnWithHealth.h>
+#include "Shooting/BulletProjectile.h"
+#include <Shooting/PawnWithHealth.h>
 #include <Kismet/GameplayStatics.h>
 
 ABulletProjectile::ABulletProjectile()

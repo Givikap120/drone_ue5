@@ -1,9 +1,8 @@
-#include "ShootingComponent.h"
-#include "PawnWithHealth.h"
+#include "Shooting/ShootingComponent.h"
+#include "Shooting/PawnWithHealth.h"
+#include "Shooting/ICanShoot.h"
 #include <Kismet/GameplayStatics.h>
-#include "ICanShoot.h"
 
-// Called when the game starts
 void UShootingComponent::BeginPlay()
 {
 	Super::BeginPlay();

@@ -1,4 +1,4 @@
-#include "PawnWithHealth.h"
+#include "Shooting/PawnWithHealth.h"
 
 // Sets default values
 APawnWithHealth::APawnWithHealth()

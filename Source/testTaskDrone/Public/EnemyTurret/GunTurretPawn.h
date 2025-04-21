@@ -1,12 +1,10 @@
-// Fill out your copyright notice in the Description page of Project Settings.
-
 #pragma once
 
 #include "CoreMinimal.h"
 #include "GameFramework/Pawn.h"
-#include "PawnWithHealth.h"
-#include "ShootingComponent.h"
-#include "ICanShoot.h"
+#include "Shooting/PawnWithHealth.h"
+#include "Shooting/ShootingComponent.h"
+#include "Shooting/ICanShoot.h"
 #include "GunTurretPawn.generated.h"
 
 UCLASS()

@@ -5,9 +5,9 @@
 #include <EnhancedInputLibrary.h>
 #include <GameFramework/FloatingPawnMovement.h>
 #include <Components/SphereComponent.h>
-#include "ShootingComponent.h"
-#include "PawnWithHealth.h"
-#include "ICanShoot.h"
+#include "Shooting/ShootingComponent.h"
+#include "Shooting/PawnWithHealth.h"
+#include "Shooting/ICanShoot.h"
 
 #include "PlayerDronePawn.generated.h"
 

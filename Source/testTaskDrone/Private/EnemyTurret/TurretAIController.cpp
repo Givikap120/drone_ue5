@@ -1,6 +1,3 @@
-// Fill out your copyright notice in the Description page of Project Settings.
-
-
 #include "EnemyTurret/TurretAIController.h"
 #include "EnemyTurret/GunTurretPawn.h"
 #include "PlayerDrone/PlayerDronePawn.h"

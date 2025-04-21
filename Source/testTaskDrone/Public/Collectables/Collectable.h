@@ -3,7 +3,7 @@
 #include "CoreMinimal.h"
 #include "GameFramework/Actor.h"
 #include <Components/SphereComponent.h>
-#include <./PlayerDrone/PlayerDronePawn.h>
+#include <PlayerDrone/PlayerDronePawn.h>
 
 #include "Collectable.generated.h"
 
